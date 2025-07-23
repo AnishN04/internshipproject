@@ -191,9 +191,3 @@ git commit -m "Describe your changes"
 git push origin feature-name
 ```
 
-### 7. Create a Pull Request (PR)
-
-- Go to the original repository:  
-  **https://github.com/sahidrajaansari/ai-resume-builder**
-- Click **"New Pull Request"** and select your branch.
-- Add a description and submit your PR.
